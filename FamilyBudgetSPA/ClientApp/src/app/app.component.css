@@ -1,0 +1,15 @@
+.header-container {
+  height: 48px;
+}
+
+.sidebar-container {
+  padding: 0;
+}
+
+.main-container {
+
+}
+
+html,body {
+  height: 100%;
+}
